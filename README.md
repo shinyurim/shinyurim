@@ -8,4 +8,4 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?&style=for-the-badge&logo=Gradle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot%20IDE-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
